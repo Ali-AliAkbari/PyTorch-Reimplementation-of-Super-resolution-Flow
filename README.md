@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a PyTorch reimplementation of a deep learning model originally proposed in [Paper Title]. The architecture was re-implemented from scratch based on the original paper and using a Keras-based reference implementation provided by Professor Nejat. 
+This project is a PyTorch reimplementation of a deep learning model originally proposed in "Super-resolution reconstruction of turbulent flows with machine learning". The architecture was re-implemented from scratch based on the original paper and using a Keras-based reference implementation provided by Professor Nejat. 
 
 While the original code was written in Keras, this version was developed using PyTorch to offer greater flexibility, easier integration with custom training loops, and better GPU handling in research environments.
 
