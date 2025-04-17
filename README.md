@@ -73,6 +73,6 @@ The `output()` function shows qualitative performance by plotting:
 
 - The model architecture and training methodology are based on the work presented in [Super-resolution reconstruction of turbulent flows with machine learning by Kai Fukami, Koji Fukagata, and Kunihiko Taira].
 - Reference Keras implementation by Professor Kai Fukami was used as a guide [hDSC_MS.py](http://www.seas.ucla.edu/fluidflow/lib/hDSC_MS.py).
-- Dataset from [[Repository Name or Link](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution)].
+- Dataset from [Diffusion-based-Fluid-Super-resolution](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution)].
 
 
