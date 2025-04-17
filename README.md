@@ -6,7 +6,7 @@ This project is a PyTorch reimplementation of a deep learning model originally p
 
 While the original code was written in Keras, this version was developed using PyTorch to offer greater flexibility, easier integration with custom training loops, and better GPU handling in research environments.
 
-This repository presents a physics-inspired convolutional neural network architecture for super-resolution reconstruction of turbulent 2D velocity fields. The model is trained to learn a mapping from irregularly sampled low-resolution (LR) flow fields to fully resolved high-resolution (HR) solutions, using direct numerical simulation (DNS) data.
+This repository presents a physics-inspired convolutional neural network architecture for super-resolution reconstruction of turbulent 2D velocity fields. The model is trained to learn a mapping from irregularly sampled low-resolution (LR) flow fields to fully resolved high-resolution (HR) solutions.
 
 The code includes data loading, model definition (DSM-MSM hybrid architecture), training routines, and qualitative evaluation functions. The approach is targeted at applications in data-driven turbulence modeling, flow reconstruction, and reduced-order modeling.
 
