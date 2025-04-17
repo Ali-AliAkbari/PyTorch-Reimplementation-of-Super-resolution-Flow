@@ -66,8 +66,11 @@ The outputs of DSM and MSM are concatenated and passed through a final convoluti
 The `output()` function shows qualitative performance by plotting:
 
 - Low-Resolution Input (LR)
+  ![Low-Resolution Input](/Images/LR.png)
 - Super-Resolved Prediction (Model Output)
+  ![Super-Resolved Prediction](/Images/HR.png)
 - High-Resolution Ground Truth (HR)
+  ![High-Resolution Ground Truth](/Images/GT.png)
   
 ## Acknowledgements
 
