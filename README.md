@@ -22,8 +22,7 @@ The code includes data loading, model definition (DSM-MSM hybrid architecture), 
 
 Instead of using the dataset used in the original paper, this project uses a different dataset from a publicly available source:
 
-- **Dataset name**: [Dataset Name]
-- **Source repository**: [Link to dataset repository]
+- **Source repository**: [Link to dataset repository](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution)
 
 ## 🧠 Model Architecture
 
@@ -76,6 +75,6 @@ The `output()` function shows qualitative performance by plotting:
 
 - The model architecture and training methodology are based on the work presented in [Super-resolution reconstruction of turbulent flows with machine learning by Kai Fukami, Koji Fukagata, and Kunihiko Taira].
 - Reference Keras implementation by Professor Kai Fukami was used as a guide [hDSC_MS.py](http://www.seas.ucla.edu/fluidflow/lib/hDSC_MS.py).
-- Dataset from [Diffusion-based-Fluid-Super-resolution](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution)].
+- Dataset from [Diffusion-based-Fluid-Super-resolution](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution).
 
 
