@@ -23,7 +23,7 @@ The code includes data loading, model definition (DSM-MSM hybrid architecture), 
 
 Instead of using the dataset used in the original paper, this project uses a different dataset from a publicly available source:
 
-- **Source repository**: [Link to dataset repository](https://github.com/Ali-AliAkbari/Diffusion-based-Fluid-Super-resolution)
+- **Source repository**: [Link to dataset repository](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution)
 
 ## 🧠 Model Architecture
 
