@@ -3,6 +3,7 @@
 ## Overview
 
 This project is a PyTorch reimplementation of a deep learning model originally proposed in "Super-resolution reconstruction of turbulent flows with machine learning by Kai Fukami, Koji Fukagata, and Kunihiko Taira". The architecture was re-implemented from scratch based on the original paper and using a Keras-based reference implementation provided by Professor Kai Fukami [hDSC_MS.py](http://www.seas.ucla.edu/fluidflow/lib/hDSC_MS.py) — from UCLA FluidFlow Lab. 
+> Fukami, K., Fukagata, K., & Taira, K. (2019). Super-resolution reconstruction of turbulent flows with machine learning. Journal of Fluid Mechanics, 870, 106–120. DOI: 10.1017/jfm.2019.238
 
 While the original code was written in Keras, this version was developed using PyTorch to offer greater flexibility, easier integration with custom training loops, and better GPU handling in research environments.
 
